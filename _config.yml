@@ -1,4 +1,6 @@
 # Build settings
+repository: 8000fall17
+
 markdown: kramdown
 kramdown:
   parse_block_html: true
