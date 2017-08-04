@@ -82,20 +82,9 @@
         }
     }
     
-    .bibliography, .classplan {
+    .bibliography, .classplan, .classinfo {
       @include alternate-rows($bg-faded);
     }
-
-    .infotable {
-        table {
-            background: $bg-faded;
-        }
-    }
-
-    #mypicture {
-        border-color: $fg-faded;
-    }
-    
 }
 
 @mixin solarized-light {

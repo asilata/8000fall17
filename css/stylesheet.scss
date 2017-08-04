@@ -22,9 +22,6 @@ $body-font: Neuton;
 
 @media screen and (min-width: 550px) {
     body {
-        .intro {
-          flex-direction: row-reverse;
-        }
         font-size:110%;
     }
 }
@@ -37,8 +34,11 @@ $body-font: Neuton;
           flex-direction: row;
         }
 
-        .papers {
-        flex-direction: row;
+        #about {
+            flex-direction: row;
+        }
+        .classinfo {
+            padding-top: 2em;
         }
     }
 }
@@ -82,6 +82,13 @@ ol {
     }
 }
 
+#about {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
 .classplan {
     table {
         text-align: left;
@@ -94,33 +101,7 @@ ol {
     }
 }
 
-.papers {
-    padding: 0em;
-    margin: 0em;
-    border-top: dotted 0.1em;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    p {
-        padding: 0em;
-        margin: 0.5em 0em;
-    }
-}
-
-.bibliography {
-    table {
-        text-align: left;
-        border-collapse: collapse;
-        th, td {
-            padding: 0.5em;
-        }
-        td:last-child {
-            @extend %small;
-        }
-    }
-}
-
-.infotable {
+.classinfo {
     table {
         padding-top: 0.5em;
         border-collapse:collapse;
@@ -158,13 +139,6 @@ header {
     }
 }
 
-.intro {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-  }
-
 nav {
     ul {
         padding-left: 0em;
@@ -185,17 +159,6 @@ footer {
     border-top: 0.1em dotted;
     margin-top:2em;
     padding-top:0.3em;
-}
-
-
-#mypicture {
-    width:15em;
-    @media screen and (min-width: 960px) {
-        width: 20em;
-    }
-    @media screen and (max-width: 480px) {
-      margin-left: 0;
-    }
 }
 
 .clearfix{

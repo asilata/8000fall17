@@ -1,5 +1,6 @@
 # Build settings
 repository: 8000fall17
+title: Math 8000 (Fall 2017)
 
 markdown: kramdown
 kramdown:
