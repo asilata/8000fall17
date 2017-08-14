@@ -24,8 +24,8 @@ The calendar is subject to change over the course of the semester.
 {% for item in calendar %}
 <tr>
 <td>{{ item.date | date: "%a %-d %b" }}</td>
-<td>{{ item.topic | markdownify }}</td>
-<td>{{ item.comments | markdownify }}</td>
+<td>{{ item.topic | markdownify | strip | remove:'<p>' | remove: '</p>' }}</td>
+<td>{{ item.comments | markdownify | strip | remove:'<p>' | remove: '</p>' }}</td>
 </tr>
 {% endfor %}
 
