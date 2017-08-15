@@ -16,7 +16,7 @@ nav_weight: 1
 <div class="classinfo">
 
 | Lectures        | TR 11:00am to 12:15pm, Boyd 326                                            |
-| Problem session | M 11:15am to 12:05pm, Boyd 326                                             |
+| Problem session | TBA                                                                        |
 | Instructor      | [Asilata Bapat](https://asilata.github.io/) (`asilata` at `uga` dot `edu`) |
 | Office hours    | TBA in Boyd 605                                                            |
 | Grader          | TBA                                                                        |
