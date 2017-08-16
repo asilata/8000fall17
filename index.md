@@ -25,3 +25,8 @@ nav_weight: 1
 
 
 </div>
+
+## Lecture notes
+The latest version of the lecture notes is available [here](https://www.overleaf.com/read/rfcvwktkdtzn).
+The LaTeX class used has been adapted from [this one](http://blog.poormansmath.net/latex-class-for-lecture-notes/).
+
