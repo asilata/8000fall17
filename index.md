@@ -8,9 +8,13 @@ nav_weight: 1
 
 <div>
 ## Announcements
-{% for post in site.posts %}
-* **{{ post.date | date: "%a %b %-d" }}:** {{ post.content | remove: '<p>' | remove: '</p>'}}
+<ul>
+{% for post in site.posts limit: 3%}
+<li>
+<strong>{{ post.date | date: "%a %b %-d" }}:</strong> {{ post.content | remove: '<p>' | remove: '</p>'}}
+</li>
 {% endfor %}
+</ul>
 </div>
 
 <div class="classinfo">
