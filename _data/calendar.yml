@@ -4,19 +4,19 @@
   comments: 
 
 - date: "2017-08-17"
-  topic: Cyclic and symmetric groups, cosets
+  topic: Cyclic and symmetric groups, intro to group actions
   scribe: Sergio
   comments:
 
 - date: "2017-08-22"
-  topic: Group actions, orbits, stabilizers, normal subgroups
+  topic: Group actions, cosets, orbits, normal subgroups
   scribe: Joe
   comments:
 
 - date: "2017-08-24"
-  topic: Generators and relations, free groups
+  topic: Stabilizers, generators and relations, free groups
   scribe: Komal
-  comments:
+  comments: Homework 1 due
 
 - date: "2017-08-29"
   topic: Sylow theorems
