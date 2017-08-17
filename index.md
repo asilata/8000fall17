@@ -34,3 +34,10 @@ nav_weight: 1
 The latest version of the lecture notes is available [here](https://www.overleaf.com/read/rfcvwktkdtzn).
 The LaTeX class used has been adapted from [this one](http://blog.poormansmath.net/latex-class-for-lecture-notes/).
 
+## Homeworks
+
+{% assign homeworks = site.data.homeworks | sort: 'due' %}
+{% for hw in homeworks %}
+* [{{ hw.name }}]({{ hw.link }}) (due on {{ hw.due | date:"%A" }}, {{ hw.due | date:"%B %-d"}})
+{% endfor %}
+

@@ -4,17 +4,17 @@
   comments: 
 
 - date: "2017-08-17"
-  topic: Orbits, stabilizers, cosets, normal subgroups
+  topic: Cyclic and symmetric groups, cosets
   scribe: Sergio
   comments:
 
 - date: "2017-08-22"
-  topic: Groups acting on sets, examples
+  topic: Group actions, orbits, stabilizers, normal subgroups
   scribe: Joe
   comments:
 
 - date: "2017-08-24"
-  topic: Sylow theorems
+  topic: Generators and relations, free groups
   scribe: Komal
   comments:
 
@@ -24,7 +24,7 @@
   comments:
       
 - date: "2017-08-31"
-  topic: 
+  topic: Sylow theorems
   scribe:
   comments:
 
