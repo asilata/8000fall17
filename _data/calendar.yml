@@ -39,18 +39,18 @@
   comments: Homework 3 due
 
 - date: "2017-09-12"
-  topic: Classification of groups of small order
-  scribe: Sophia
+  topic: Cancelled due to Hurricane Irma
+  scribe: 
   comments:
 
 - date: "2017-09-14"
-  topic: Solvability and Jordan-Hölder theorem
+  topic: Classification of groups of small order
   scribe: Amelia
   comments: Homework 4 due
 
 - date: "2017-09-19"
-  topic: Basics of ring theory
-  scribe:
+  topic: Solvability and Jordan-Hölder theorem
+  scribe: Sophia
   comments:
 
 - date: "2017-09-21"
@@ -59,27 +59,27 @@
   comments:
 
 - date: "2017-09-26"
-  topic: Ideals, quotient rings, isomorphism theorems
+  topic: Basics of ring theory
   scribe:
   comments:
 
 - date: "2017-09-28"
-  topic: Polynomial rings, domains, PIDs, UFDs
+  topic: Ideals, quotient rings, isomorphism theorems
   scribe:
   comments:
 
 - date: "2017-10-03"
-  topic: More on PIDs, UFDs, Euclidean domains
+  topic: Polynomial rings, domains, PIDs, UFDs
   scribe:
   comments:
 
 - date: "2017-10-05"
-  topic: Modules, free modules, direct sums, etc
+  topic: More on PIDs, UFDs, Euclidean domains
   scribe:
   comments:
 
 - date: "2017-10-10"
-  topic: Finitely generated modules over a PID
+  topic: Modules, free modules, direct sums, etc
   scribe:
   comments:
 
@@ -89,12 +89,12 @@
   comments:
 
 - date: "2017-10-17"
-  topic: Field extensions and Galois groups
+  topic: Finitely generated modules over a PID
   scribe:
   comments:
 
 - date: "2017-10-19"
-  topic: Galois theory
+  topic: Field extensions and Galois groups
   scribe:
   comments:
 
@@ -104,7 +104,7 @@
   comments:
 
 - date: "2017-10-26"
-  topic:
+  topic: Galois theory
   scribe:
   comments:
 
