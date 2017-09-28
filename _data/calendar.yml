@@ -10,7 +10,7 @@
 
 - date: "2017-08-22"
   topic: Group actions, cosets, orbits, normal subgroups
-  scribe: Joe
+  scribe: Joseph
   comments:
 
 - date: "2017-08-24"
@@ -59,32 +59,32 @@
   comments:
 
 - date: "2017-09-26"
-  topic: More on solvability and the Jordan-Hölder theorem
-  scribe: Amelia
+  topic: Basics of ring theory
+  scribe: Joseph
   comments:
 
 - date: "2017-09-28"
-  topic: Basics of ring theory
-  scribe:
+  topic: Ideals, quotient rings, isomorphism theorems
+  scribe: Amelia
   comments: Homework 5 due
 
 - date: "2017-10-03"
-  topic: Ideals, quotient rings, isomorphism theorems
+  topic: Polynomial rings, domains, PIDs, UFDs
   scribe:
   comments:
 
 - date: "2017-10-05"
-  topic: Polynomial rings, domains, PIDs, UFDs
+  topic: More on PIDs, UFDs, Euclidean domains
   scribe:
   comments: Homework 6 due
 
 - date: "2017-10-10"
-  topic: More on PIDs, UFDs, Euclidean domains
+  topic: Modules, free modules, direct sums, etc
   scribe:
   comments: 
 
 - date: "2017-10-12"
-  topic: Modules, free modules, direct sums, etc
+  topic: More on modules
   scribe:
   comments: Homework 7 due
 
