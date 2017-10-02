@@ -70,17 +70,17 @@
 
 - date: "2017-10-03"
   topic: Polynomial rings, domains, PIDs, UFDs
-  scribe:
+  scribe: Kenneth
   comments:
 
 - date: "2017-10-05"
   topic: More on PIDs, UFDs, Euclidean domains
-  scribe:
+  scribe: Sergio
   comments: Homework 6 due
 
 - date: "2017-10-10"
   topic: Modules, free modules, direct sums, etc
-  scribe:
+  scribe: Freddy
   comments: 
 
 - date: "2017-10-12"
