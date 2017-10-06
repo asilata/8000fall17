@@ -69,27 +69,27 @@
   comments: Homework 5 due
 
 - date: "2017-10-03"
-  topic: Polynomial rings, domains, PIDs, UFDs
+  topic: Domains, polynomial rings
   scribe: Kenneth
   comments:
 
 - date: "2017-10-05"
-  topic: More on PIDs, UFDs, Euclidean domains
+  topic: More on polynomial rings and PIDs
   scribe: Sergio
   comments: Homework 6 due
 
 - date: "2017-10-10"
-  topic: Modules, free modules, direct sums, etc
+  topic: UFDs, Euclidean domains
   scribe: Freddy
   comments: 
 
 - date: "2017-10-12"
-  topic: More on modules
+  topic: Modules, free modules, direct sums, etc
   scribe:
   comments: Homework 7 due
 
 - date: "2017-10-17"
-  topic: Finitely generated modules over a PID
+  topic: More on modules
   scribe:
   comments:
 
@@ -99,12 +99,12 @@
   comments: Homework 8 due
 
 - date: "2017-10-24"
-  topic: Field extensions and Galois groups
+  topic: Finitely generated modules over a PID
   scribe:
   comments:
 
 - date: "2017-10-26"
-  topic: Galois theory
+  topic: Field extensions and Galois groups
   scribe:
   comments: Homework 9 due
 
@@ -119,7 +119,7 @@
   comments:
 
 - date: "2017-11-07"
-  topic:
+  topic: Galois theory
   scribe:
   comments:
 
