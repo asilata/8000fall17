@@ -90,76 +90,81 @@
 
 - date: "2017-10-17"
   topic: Field automorphisms and constructible numbers
-  scribe:
+  scribe: Sophia
   comments:
 
 - date: "2017-10-19"
   topic: Constructible numbers
-  scribe:
+  scribe: Jack
   comments: 
 
 - date: "2017-10-24"
   topic: Field extensions and splitting fields
-  scribe:
+  scribe: Nolan
   comments:
 
 - date: "2017-10-26"
-  topic: 
+  topic: Splitting fields, multiple roots, perfect fields
   scribe:
   comments: Homework 8 due
 
 - date: "2017-10-31"
-  topic: 
+  topic: The Galois pairing 
   scribe:
   comments:
 
 - date: "2017-11-02"
-  topic: "**Midterm Exam 2**"
+  topic: Fundamental theorem of Galois theory
   scribe:
-  comments:
+  comments: "**Midterm Exam 2** released"
 
 - date: "2017-11-07"
-  topic: 
+  topic: Fundamental theorem of Galois theory
   scribe:
   comments:
 
 - date: "2017-11-09"
-  topic:
+  topic: Fundamental theorem of Galois theory
   scribe:
-  comments:
+  comments: "**Midterm Exam 2** due"
 
 - date: "2017-11-14"
-  topic:
+  topic: Fundamental theorem of Galois theory
   scribe:
   comments:
 
 - date: "2017-11-16"
-  topic:
+  topic: Modules over a ring
   scribe:
   comments:
 
 - date: "2017-11-21"
-  topic:
+  topic: Free modules, direct sums
   scribe:
   comments:
 
 - date: "2017-11-23"
-  topic:
+  topic: Finitely generated modules over a PID
   scribe:
   comments:
 
 - date: "2017-11-28"
-  topic:
+  topic: Finitely generated modules over a PID
   scribe:
   comments:
 
 - date: "2017-11-30"
-  topic:
+  topic: Applications to linear algebra
   scribe:
   comments:
 
 - date: "2017-12-05"
   topic:
+  scribe:
+  comments:
+
+- date: "2017-12-07"
+  topic: "**Final Exam**"
   scribe:
   comments:
 
