@@ -105,7 +105,7 @@
 
 - date: "2017-10-26"
   topic: Splitting fields, multiple roots, perfect fields
-  scribe:
+  scribe: Komal
   comments: Homework 8 due
 
 - date: "2017-10-31"
@@ -116,7 +116,7 @@
 - date: "2017-11-02"
   topic: Fundamental theorem of Galois theory
   scribe:
-  comments: "**Midterm Exam 2** released"
+  comments: "Homework 9 due, **Midterm Exam 2** released"
 
 - date: "2017-11-07"
   topic: Fundamental theorem of Galois theory
@@ -124,27 +124,27 @@
   comments:
 
 - date: "2017-11-09"
-  topic: Fundamental theorem of Galois theory
+  topic: Modules over a ring
   scribe:
   comments: "**Midterm Exam 2** due"
 
 - date: "2017-11-14"
-  topic: Fundamental theorem of Galois theory
-  scribe:
-  comments:
-
-- date: "2017-11-16"
-  topic: Modules over a ring
-  scribe:
-  comments:
-
-- date: "2017-11-21"
   topic: Free modules, direct sums
   scribe:
   comments:
 
-- date: "2017-11-23"
+- date: "2017-11-16"
   topic: Finitely generated modules over a PID
+  scribe:
+  comments:
+
+- date: "2017-11-21"
+  topic: "**Thanksgiving break**"
+  scribe:
+  comments:
+
+- date: "2017-11-23"
+  topic: "**Thanksgiving break**"
   scribe:
   comments:
 
