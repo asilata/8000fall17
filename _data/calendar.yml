@@ -110,17 +110,17 @@
 
 - date: "2017-10-31"
   topic: The Galois pairing 
-  scribe:
+  scribe: Kenneth
   comments:
 
 - date: "2017-11-02"
   topic: Fundamental theorem of Galois theory
-  scribe:
+  scribe: Amelia
   comments: "Homework 9 due, **Midterm Exam 2** released"
 
 - date: "2017-11-07"
   topic: Fundamental theorem of Galois theory
-  scribe:
+  scribe: Joseph, Sergio
   comments:
 
 - date: "2017-11-09"
@@ -130,13 +130,13 @@
 
 - date: "2017-11-14"
   topic: Free modules, direct sums
-  scribe:
+  scribe: Freddy, Komal
   comments:
 
 - date: "2017-11-16"
   topic: Finitely generated modules over a PID
-  scribe:
-  comments:
+  scribe: 
+  comments: Homework 10 due
 
 - date: "2017-11-21"
   topic: "**Thanksgiving break**"
